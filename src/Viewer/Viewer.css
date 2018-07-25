@@ -1,0 +1,12 @@
+label {
+  display: flex;
+  flex-direction: column;
+  margin: 1em 2em;
+  flex: 1 1 10em;
+}
+
+.controls {
+  display: flex;
+  flex-direction: row;
+}
+
